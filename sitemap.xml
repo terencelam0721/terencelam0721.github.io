@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2020/08/25/%E5%AD%A4%E7%8B%AC%E6%82%A3%E8%80%85%E6%B2%A1%E6%9C%89%E7%97%85/</loc>
+    
+    <lastmod>2020-08-25</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/about/index.html</loc>
     
     <lastmod>2020-08-20</lastmod>
@@ -15,17 +22,10 @@
     
   </url>
   
-  <url>
-    <loc>http://yoursite.com/2020/08/07/mamba/</loc>
-    
-    <lastmod>2020-08-08</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>http://yoursite.com/</loc>
-    <lastmod>2020-08-21</lastmod>
+    <lastmod>2020-08-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
